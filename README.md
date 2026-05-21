@@ -1,4 +1,5 @@
 # github-demo
 <i>This is github learning process.</i>
 <br>
-Author : Nabha Pote
+Author : Nabha is learning
+
